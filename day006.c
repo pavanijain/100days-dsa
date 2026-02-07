@@ -13,7 +13,7 @@ int main() {
         scanf("%d", &arr[i]);
     }
 
-    // Print first element
+    
     printf("Unique elements: ");
     printf("%d ", arr[0]);
 
